@@ -7,8 +7,9 @@ namespace CollectionPractices
         static void Main(string[] args)
         {
             Console.WriteLine("--------------Collections--------------");
-            NonGenericCollection.ArrayListFunction();
+            //NonGenericCollection.ArrayListFunction();
 
+            NonGenericCollection.HashTableFunction();
             Console.ReadLine();
         }
     }

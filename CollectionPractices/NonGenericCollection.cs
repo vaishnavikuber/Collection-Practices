@@ -22,6 +22,20 @@ namespace CollectionPractices
             }
         }
 
+        public static void HashTableFunction()
+        {
+            Hashtable ht = new Hashtable();
+            ht.Add("a","Abhiman");
+            ht.Add(12, "Hamsa");
+            ht.Add(10.5, 890);
+            ht.Add('s', "shri");
+
+            foreach(DictionaryEntry element in ht)
+            {
+                Console.WriteLine(element.Key+"    "+element.Value);
+            }
+        }
+
 
     }
 }
