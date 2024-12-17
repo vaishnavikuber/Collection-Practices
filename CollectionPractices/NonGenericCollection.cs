@@ -37,5 +37,39 @@ namespace CollectionPractices
         }
 
 
+        public static void SortedListFunction()
+        {
+            SortedList sl = new SortedList();
+            sl.Add("aa", "bhuvan");
+            sl.Add("we", "Vaishnavi");
+            sl.Add("ava", "Horse");
+            sl.Add("bl", 87865876);
+
+            foreach(DictionaryEntry element in sl)
+            {
+                Console.WriteLine(element.Key + "    " + element.Value);
+            }
+        }
+
+        public static void StackFunction()
+        {
+            Stack s = new Stack();
+            s.Push("Avinash");
+            s.Push("Raja");
+            s.Push(1323);
+            s.Push('g');
+            s.Push(20.09);
+
+            s.Pop();
+
+            foreach(var element in s)
+            {
+                Console.WriteLine(element);
+
+            }
+
+        }
+
+
     }
 }
