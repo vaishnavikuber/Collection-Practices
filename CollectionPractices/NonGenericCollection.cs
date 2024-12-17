@@ -70,6 +70,25 @@ namespace CollectionPractices
 
         }
 
+        public static void QueueFunction()
+        {
+            Queue q = new Queue();
+            q.Enqueue(2434);
+            q.Enqueue('j');
+            q.Enqueue("Dog");
+            q.Enqueue(34.555564);
+
+            object o= q.Peek();
+            Console.WriteLine(o);
+
+            q.Dequeue();
+
+            foreach (var element in q)
+            {
+                Console.WriteLine(element);
+            }
+        }
+
 
     }
 }
