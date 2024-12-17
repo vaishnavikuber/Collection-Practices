@@ -9,7 +9,23 @@ namespace CollectionPractices
             Console.WriteLine("--------------Collections--------------");
             //NonGenericCollection.ArrayListFunction();
 
-            NonGenericCollection.HashTableFunction();
+            //NonGenericCollection.HashTableFunction();
+
+            //NonGenericCollection.SortedListFunction();
+
+            //NonGenericCollection.StackFunction();
+
+            //NonGenericCollection.QueueFunction();
+
+            //GenericCollections.ListFunction();
+
+            GenericCollections.DictionaryFunction();
+
+            GenericCollections.SortedListFunction();
+
+            GenericCollections.StackFunction();
+
+            GenericCollections.QueueFunction();
             Console.ReadLine();
         }
     }
