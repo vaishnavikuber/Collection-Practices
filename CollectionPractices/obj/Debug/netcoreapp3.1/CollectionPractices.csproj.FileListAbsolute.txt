@@ -1,0 +1,14 @@
+C:\Users\vaish\source\repos\CollectionPractices\CollectionPractices\bin\Debug\netcoreapp3.1\CollectionPractices.exe
+C:\Users\vaish\source\repos\CollectionPractices\CollectionPractices\bin\Debug\netcoreapp3.1\CollectionPractices.deps.json
+C:\Users\vaish\source\repos\CollectionPractices\CollectionPractices\bin\Debug\netcoreapp3.1\CollectionPractices.runtimeconfig.json
+C:\Users\vaish\source\repos\CollectionPractices\CollectionPractices\bin\Debug\netcoreapp3.1\CollectionPractices.runtimeconfig.dev.json
+C:\Users\vaish\source\repos\CollectionPractices\CollectionPractices\bin\Debug\netcoreapp3.1\CollectionPractices.dll
+C:\Users\vaish\source\repos\CollectionPractices\CollectionPractices\bin\Debug\netcoreapp3.1\CollectionPractices.pdb
+C:\Users\vaish\source\repos\CollectionPractices\CollectionPractices\obj\Debug\netcoreapp3.1\CollectionPractices.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vaish\source\repos\CollectionPractices\CollectionPractices\obj\Debug\netcoreapp3.1\CollectionPractices.AssemblyInfoInputs.cache
+C:\Users\vaish\source\repos\CollectionPractices\CollectionPractices\obj\Debug\netcoreapp3.1\CollectionPractices.AssemblyInfo.cs
+C:\Users\vaish\source\repos\CollectionPractices\CollectionPractices\obj\Debug\netcoreapp3.1\CollectionPractices.csproj.CoreCompileInputs.cache
+C:\Users\vaish\source\repos\CollectionPractices\CollectionPractices\obj\Debug\netcoreapp3.1\CollectionPractices.sourcelink.json
+C:\Users\vaish\source\repos\CollectionPractices\CollectionPractices\obj\Debug\netcoreapp3.1\CollectionPractices.dll
+C:\Users\vaish\source\repos\CollectionPractices\CollectionPractices\obj\Debug\netcoreapp3.1\CollectionPractices.pdb
+C:\Users\vaish\source\repos\CollectionPractices\CollectionPractices\obj\Debug\netcoreapp3.1\CollectionPractices.genruntimeconfig.cache
